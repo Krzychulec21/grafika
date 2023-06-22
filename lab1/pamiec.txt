@@ -1,0 +1,10 @@
+16, 20, 24, 32, 40, 48 i 64 
+
+adres 16 bitowy: 2^16 = 65536
+adres 20 bitowy: 2^20 = 1048576
+adres 24 bitowy: 2^24 = 16777216
+adres 32 bitowy: 2^32 = 4294967296
+adres 40 bitowy: 2^40 = 1099511627776
+adres 48 bitowy: 2^48 = 2.81474977e14
+adres 64 bitowy: 2^64 = 1.84467441e19
+

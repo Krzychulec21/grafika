@@ -1,0 +1,8 @@
+0   1   2   3   4   5   6    indeksy
+1   1   2   3   5   8   13   wartosci
+
+Dwa pierwsze wyrazy ci¹gu Fibonacciego maj¹ wartoœæ 1,
+a ka¿dy kolejny wyraz jest sum¹ dwóch poprzednich.
+
+fibo(n) = n, n <= 2
+fibo(n) = fibo(n-1) + fibo(n-2), n >= 3
